@@ -10,7 +10,7 @@ El **Proyecto Pipis Socoli** nació con la intención de crear un sistema innova
 ✅ **Aprendizajes clave y oportunidades de mejora**  
 
 ## 📑 Reportes disponibles  
-🔹 **Reporte 1: Modelo de negocio y ejecución** ([Descargar PDF](./reportes/Proyecto_PipisSocoli_1.pdf))  
+🔹 **Reporte 1: Poryecto Muñecas XV años** ([Descargar PDF](Proyecto PipisSocoli 2.pdf))  
 🔹 **Reporte 2: Análisis financiero y evaluación de impacto** ([Descargar PDF](./reportes/Proyecto_PipisSocoli_2.pdf))  
 
 ## 📬 Contacto  
